@@ -2,7 +2,7 @@
 
 Aplicativo desenvolvido para auxiliar estudantes no gerenciamento de atividades acadêmicas.
 
-Funcionalidades:
+## ✨ Funcionalidades:
 
 Adicionar atividades
 Informar disciplina
