@@ -1,4 +1,4 @@
-Agenda Acadêmica
+# 📚 Agenda Acadêmica
 
 Aplicativo desenvolvido para auxiliar estudantes no gerenciamento de atividades acadêmicas.
 
@@ -10,20 +10,26 @@ Informar data de entrega
 Marcar atividade como concluída
 Excluir atividades
 
-Tecnologias Utilizadas:
+## 🛠 Tecnologias Utilizadas
 
-React Native
-Expo
-TypeScript
+- React Native
+- Expo
+- TypeScript
 
-Como Executar:
+## ▶️ Como Executar
 
-Instale as dependências:
+### Instalar as dependências
 
+```bash
 npm install
+```
 
-Inicie o projeto:
+### Iniciar o projeto
 
+```bash
 npx expo start
+```
+
+## 🎓 Projeto Acadêmico
 
 Projeto desenvolvido para a disciplina de Programação para Dispositivos Móveis.
